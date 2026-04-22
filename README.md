@@ -48,12 +48,19 @@ All other components (motor, endstop, mechanics, power) are part of the original
 
 ### 🧪 Breadboard (Fritzing)
 
-![Breadboard](hardware/fritzing/croquettor_breadboard.png)
+
+<p align="center">
+  <img src="hardware/fritzing/croquettor_breadboard.png">
+</p>
+
 
 ### 🧾 PCB
 
-![PCB Top](hardware/pcb/croquettor_pcb_top.png)
-![PCB Bottom](hardware/pcb/croquettor_pcb_btm.png)
+<p align="center">
+  <img src="hardware/pcb/croquettor_pcb_top.png">
+  <img src="hardware/pcb/croquettor_pcb_btm.png">
+</p>
+
 ---
 
 ## 🚀 Firmware
