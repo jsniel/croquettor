@@ -37,6 +37,9 @@ Tested with:
 
 - ESP32-C3 Mini  
 - RTC module (DS3231)
+- 1k resistor
+- 2N222 NPN transistor
+- 1N4007 diode
 
 ### Important
 
