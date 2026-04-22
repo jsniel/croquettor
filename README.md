@@ -71,7 +71,7 @@ You can:
 - Configure 2 automatic schedules
 
 <p align="center">
-  <img src="images/webui.png" width="600">
+  <img src="images/web/webui.png" width="600">
 </p>
 
 ---
