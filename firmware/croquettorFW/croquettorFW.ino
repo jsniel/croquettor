@@ -1,3 +1,11 @@
+#/*
+ * Croquettor Firmware
+ * 
+ * Author: Jean-Sebastien Niel
+ * GitHub: https://github.com/jsniel
+ * License: MIT
+ */
+ 
 #include <WiFi.h>
 #include <WebServer.h>
 #include <DNSServer.h>
@@ -17,7 +25,7 @@
 RTC_DS3231 rtc;
 
 const char* ssid = "croquettor";
-const char* password = "nounette";
+const char* password = "12345678";
 
 WebServer server(80);
 bool webServerEnabled = false;
