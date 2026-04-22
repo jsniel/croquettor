@@ -50,15 +50,28 @@ All other components (motor, endstop, mechanics, power) are part of the original
 
 
 <p align="center">
-  <img src="hardware/fritzing/croquettor_breadboard.png" width="500">
+  <img src="hardware/fritzing/croquettor_breadboard.png" width="600">
 </p>
 
 
 ### 🧾 PCB
 
 <p align="center">
-  <img src="hardware/pcb/croquettor_pcb_top.png" width="200">
-  <img src="hardware/pcb/croquettor_pcb_btm.png" width="200">
+  <img src="hardware/pcb/croquettor_pcb_top.png" width="300">
+  <img src="hardware/pcb/croquettor_pcb_btm.png" width="300">
+</p>
+
+---
+
+### Web interface
+
+You can:
+- Trigger feeding manually
+- Set time (RTC)
+- Configure 2 automatic schedules
+
+<p align="center">
+  <img src="images/webui.png" width="600">
 </p>
 
 ---
@@ -135,14 +148,6 @@ http://192.168.4.1
 
 ---
 
-### Web interface
-
-You can:
-- Trigger feeding manually
-- Set time (RTC)
-- Configure 2 automatic schedules
-
----
 
 ## ⚠️ Known Issues
 
@@ -164,6 +169,7 @@ You can:
 croquettor/
 ├── firmware/
 ├── hardware/
+├── images/
 ├── README.md
 ├── LICENSE
 └── LICENSE-HARDWARE
