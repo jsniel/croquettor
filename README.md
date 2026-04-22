@@ -171,8 +171,7 @@ croquettor/
 ├── hardware/
 ├── images/
 ├── README.md
-├── LICENSE
-└── LICENSE-HARDWARE
+└── LICENSE
 ```
 
 ---
