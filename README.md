@@ -50,15 +50,15 @@ All other components (motor, endstop, mechanics, power) are part of the original
 
 
 <p align="center">
-  <img src="hardware/fritzing/croquettor_breadboard.png">
+  <img src="hardware/fritzing/croquettor_breadboard.png" width="500">
 </p>
 
 
 ### 🧾 PCB
 
 <p align="center">
-  <img src="hardware/pcb/croquettor_pcb_top.png">
-  <img src="hardware/pcb/croquettor_pcb_btm.png">
+  <img src="hardware/pcb/croquettor_pcb_top.png" width="200">
+  <img src="hardware/pcb/croquettor_pcb_btm.png" width="200">
 </p>
 
 ---
@@ -164,7 +164,6 @@ You can:
 croquettor/
 ├── firmware/
 ├── hardware/
-├── images/
 ├── README.md
 ├── LICENSE
 └── LICENSE-HARDWARE
