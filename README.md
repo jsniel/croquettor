@@ -44,17 +44,16 @@ All other components (motor, endstop, mechanics, power) are part of the original
 
 ---
 
-## 🖼️ Project Images
-
-### 🧪 Breadboard (Fritzing)
+## 🧪 Breadboard (Fritzing)
 
 
 <p align="center">
   <img src="hardware/fritzing/croquettor_breadboard.png" width="600">
 </p>
 
+---
 
-### 🧾 PCB
+## 🧾 PCB
 
 <p align="center">
   <img src="hardware/pcb/croquettor_pcb_top.png" width="300">
@@ -63,7 +62,7 @@ All other components (motor, endstop, mechanics, power) are part of the original
 
 ---
 
-### Web interface
+## Web interface
 
 You can:
 - Trigger feeding manually
