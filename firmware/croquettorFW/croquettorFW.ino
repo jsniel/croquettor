@@ -1,4 +1,4 @@
-#/*
+/*
  * Croquettor Firmware
  * 
  * Author: Jean-Sebastien Niel

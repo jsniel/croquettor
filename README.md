@@ -184,10 +184,13 @@ GitHub: https://github.com/jsniel
 
 ---
 
-## 📜 Licenses
+## 📜 License
 
-- Firmware: MIT License  
-- Hardware: CERN-OHL-S v2  
+This project is licensed under the MIT License.
+
+This includes:
+- Firmware
+- Hardware design files (PCB, Gerber, Fritzing)
 
 ---
 
