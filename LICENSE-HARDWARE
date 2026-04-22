@@ -1,0 +1,18 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2)
+
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
+
+You may redistribute and modify this documentation and make products using it
+under the terms of the CERN-OHL-S v2.
+
+A copy of the license is available at:
+https://ohwr.org/cern_ohl_s_v2.txt
+
+As per CERN-OHL-S v2 section 4, should You produce hardware based on this
+source, You must maintain the Source Location visible on the external case of
+the product or in the user documentation.
+
+This file is a short notice intended for repository use. When publishing the
+project publicly, it is recommended to also include the full CERN-OHL-S v2
+license text alongside this notice if you want a completely self-contained
+repository.
